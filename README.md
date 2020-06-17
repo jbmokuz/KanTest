@@ -1,0 +1,2 @@
+# KanTest
+Mahjong KanTest bot!
